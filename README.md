@@ -1,4 +1,8 @@
+![EdwardAndrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardAndrew&theme=dark&hide_title=true)
+
 ### Hi there 👋
+
+
 
 <!--
 **EdwardAndrew/EdwardAndrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
