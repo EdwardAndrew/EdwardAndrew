@@ -1,5 +1,5 @@
-![EdwardAndrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardAndrew&theme=dark&hide_title=true)
-
+<!--![EdwardAndrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdwardAndrew&theme=dark&hide_title=true)
+-->
 ### Hi there 👋
 
 
