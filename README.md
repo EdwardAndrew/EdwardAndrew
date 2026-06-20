@@ -19,5 +19,6 @@ I write software for a living and sometimes in my spare time.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardAndrew&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-![footer](https://raw.githubusercontent.com/EdwardAndrew/EdwardAndrew/main/assets/footer.svg)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/EdwardAndrew/EdwardAndrew/main/assets/footer.svg" />
+</p>
