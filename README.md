@@ -19,4 +19,5 @@ I write software for a living and sometimes in my spare time.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardAndrew&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=16&fontAlignY=75&fontColor=ffffff)
+![footer](https://raw.githubusercontent.com/EdwardAndrew/EdwardAndrew/main/assets/footer.svg)
+
